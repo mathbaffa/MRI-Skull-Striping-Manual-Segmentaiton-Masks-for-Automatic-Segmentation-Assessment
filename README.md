@@ -1,2 +1,5 @@
-# MRI-Skull-Striping-Manual-Segmentaiton-Masks-for-Automatic-Segmentation-Assessment
-MRI Skull Striping Manual Segmentaiton Masks for Automatic Segmentation Assessment
+# MRI Manual Segmentaiton Masks for Automatic Skull Striping Methods Evaluation
+
+This repository contains binary masks manually segmented from MRI images acquired over the transverse plane axis using the FLAIR, T1 and T2 modalities. The original image has been compiled by Navoneel et al. and are available at: <https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri>. These images reflect patients diagnosed with glioma, meningioma, pituitary tumor, and a control group. There are 100 images in total, 25 images manually segmented for each diagnosis. This dataset can be used for research purposes, as a groundtruth or gold standard for automatic skull striping methods. If using, please reference the original dataset and the following paper:
+
+- Souza, D. L., Coelho, A. M., Felipe, J. C., Baffa, M. D. F. O. (2021). Brain Tumor Classification on Multi-Modality MRI Using Radiomic Features. In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1799-1804). IEEE.
